@@ -1,8 +1,8 @@
-# EJERCICIO HTML Y CSS3 
+`# EJERCICIO HTML Y CSS3 `
 
 Ejercicio propuesto por la Bootcamp FactoriaF5 para practicar la sintaxis de HTML5 y CSS3
 
-## Objetivo :dart:
+``## Objetivo :dart:`
 Recrear la siguiente página web y su estructura:
 ![Web a clonar](./img/enun.PNG)
 
