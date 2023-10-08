@@ -4,7 +4,7 @@ Ejercicio propuesto por la Bootcamp FactoriaF5 para practicar la sintaxis de HTM
 
 ## Objetivo :dart:
 Recrear la siguiente página web y su estructura:
-`![Web a clonar](./img/enun.PNG)`
+![Web a clonar](./img/enun.PNG)
 
 ## Requisitos :pencil:
 
