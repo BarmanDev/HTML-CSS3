@@ -1,0 +1,48 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            margin: 3rem 0;
+            font-size: 3rem;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .title h2{
+            font-size: 2rem;
+            font-weight: bold;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 1rem;
+
+        }
+
+        .title {
+            background-color: gray;
+            padding: 1rem 0;
+        }
+
+        .article-container {
+            margin: 2rem 12rem;
+            display: flex;
+
+
+        }
+
+        .article-container img {
+            width: 5%;
+            float: left;
+        }
+
+        #css3{
+            margin-right: 0.7rem;
+            width: 4%;
+        }
+
+        .article-container p {
+            text-align: justify;
+            font-size: 1.5rem;
+        }
+
+
