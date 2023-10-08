@@ -23,5 +23,5 @@ Recrear la siguiente página web y su estructura:
 - Estilos de encabezado y subtítulos
 - Uso básico de flex.
 ## Tools :wrench:
-[Visual Studio Code](https://code.visualstudio.com/)
-[Live Server ](https://code.visualstudio.com/) 
+|| [Visual Studio Code](https://code.visualstudio.com/) || 
+[Live Server ](https://code.visualstudio.com/) ||
