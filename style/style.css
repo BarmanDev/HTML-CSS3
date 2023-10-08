@@ -26,18 +26,16 @@
         .article-container {
             margin: 2rem 12rem;
             display: flex;
-
-
         }
 
         .article-container img {
-            width: 5%;
+            width: 8%;
             float: left;
         }
 
         #css3{
             margin-right: 0.7rem;
-            width: 4%;
+            width: 7%;
         }
 
         .article-container p {
